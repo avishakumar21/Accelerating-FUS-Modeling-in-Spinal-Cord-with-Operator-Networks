@@ -1,4 +1,4 @@
-# deeponet-optimal-placement
+# Neural Operators for FUS simulations
 
 optimization of ultrasound neural implant placement with deeponet
 
