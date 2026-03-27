@@ -25,4 +25,4 @@ For FNO,  run
  python3 main_fno.py <a_nane_for_this_trail_NOSPACE>
 ```
 
-Data (images and simulation maps) can be found here: https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/akumar80_jh_edu/EjZIb925AtRPqIAg8DDsVQgB8ZlQ-an1M2TiI47-TbP1fg?e=qpa6b9
+Data (images and simulation maps) can be found here: https://drive.google.com/file/d/1cFjVVd5CTqSf7Z0eNAEn1MT6JUc9a7gA/view
